@@ -12,3 +12,4 @@
 /dev/mapper/rhel-root   /                       xfs     defaults        0 0
 UUID=21a7794b-c99d-4ea0-8ae9-a7ffe32a4409 /boot                   xfs     defaults        0 0
 /dev/mapper/rhel-swap   none                    swap    defaults        0 0
+Today
